@@ -1,0 +1,13 @@
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\bin\Debug\netcoreapp3.1\arrayGeneratormax.exe
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\bin\Debug\netcoreapp3.1\arrayGeneratormax.deps.json
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\bin\Debug\netcoreapp3.1\arrayGeneratormax.runtimeconfig.json
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\bin\Debug\netcoreapp3.1\arrayGeneratormax.runtimeconfig.dev.json
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\bin\Debug\netcoreapp3.1\arrayGeneratormax.dll
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\bin\Debug\netcoreapp3.1\arrayGeneratormax.pdb
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\obj\Debug\netcoreapp3.1\arrayGeneratormax.csprojAssemblyReference.cache
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\obj\Debug\netcoreapp3.1\arrayGeneratormax.AssemblyInfoInputs.cache
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\obj\Debug\netcoreapp3.1\arrayGeneratormax.AssemblyInfo.cs
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\obj\Debug\netcoreapp3.1\arrayGeneratormax.csproj.CoreCompileInputs.cache
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\obj\Debug\netcoreapp3.1\arrayGeneratormax.dll
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\obj\Debug\netcoreapp3.1\arrayGeneratormax.pdb
+C:\Users\Michail\source\repos\arrayGeneratormax\arrayGeneratormax\obj\Debug\netcoreapp3.1\arrayGeneratormax.genruntimeconfig.cache
