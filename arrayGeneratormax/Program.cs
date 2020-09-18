@@ -57,9 +57,23 @@ namespace arrayGeneratormax
             Console.WriteLine($" The min value of array elements is: {min}");
         }
 
+        static bool checkForUniques(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                for (int j = i + 1; j < array.Length; j++)
+                {
+                    if (array[j] == array[i]) return false;
+                }
+            }
+            return true;
+        }
+
         static void Main(string[] args)
         {
             int[] array = arrayGenerator();// generate array
+
+            
 
             for (int i = 0; i < array.Length; i++)// print array in Console
             {
@@ -69,8 +83,35 @@ namespace arrayGeneratormax
 
             Console.WriteLine();
 
+            if (checkForUniques(array))
+            {
+                Console.WriteLine("array is unique");
+            }
+            else
+            {
+                Console.WriteLine("array is not unique");
+            }
+
             arrayMaxValue(array);// print max
             arrayMinValue(array);//print min
+
+            array[0] = array[5];
+
+            for(int i = 0; i < array.Length; i++)// print array in Console
+            {
+                Console.Write(array[i] + " ");
+
+            }
+
+            if (checkForUniques(array))
+            {
+                Console.WriteLine("array is unique");
+            }
+            else
+            {
+                Console.WriteLine("array is not unique");
+            }
+
         }
     }
 }
